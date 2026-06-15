@@ -13,4 +13,6 @@ Welcome to **Marty Games**, the ultimate browser-based gaming destination! Play 
 
 - [HawkStudio900](https://github.com/hawkstudio900)
 
+- [KingShedew](https://github.com/KingShedew)
+
 - And Many More Contributors
